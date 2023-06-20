@@ -1,0 +1,409 @@
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\BOOK_STORE.csprojAssemblyReference.cache
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CopyComplete
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\Hệ quản trị\DoAn\DA_DBMS\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csprojAssemblyReference.cache
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CopyComplete
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\Hệ quản trị\DoAn\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csprojAssemblyReference.cache
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CopyComplete
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\DBMS\Nhóm 10\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+E:\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CopyComplete
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\HK5\DBMS\DBMS-project-main\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe.config
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CopyComplete
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\HK5\DBMS\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+C:\Users\hoang\OneDrive\Desktop\test\DBMS-project-main\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\aaa\BOOK_STORE\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe.config
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.exe
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\bin\Debug\DA_DBMS.pdb
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.AssemblyReference.cache
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Chitiet.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmAdmin.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmChitietsanpham.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangKy.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDangNhap.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.frmDoiMatKhau.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.FrmNguoiDung.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ManagerSanPham.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_DonHang.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NCC.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_NXB.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Manager_TacGia.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.Properties.Resources.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.SuaChiTiet.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThemSach.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.ThongKe.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Cart.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.DonHang.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.ManagerKhachHang.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.MyDonHang.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Profile.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.UserControls.Store.resources
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.GenerateResource.cache
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\BOOK_STORE.csproj.CoreCompileInputs.cache
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.exe
+D:\HK5\DBMS\BOOK_STORE\DA_DBMS\obj\Debug\DA_DBMS.pdb

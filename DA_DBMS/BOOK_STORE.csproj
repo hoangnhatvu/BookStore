@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61BFFE8F-AF5E-45C1-807D-682F6028664C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DA_DBMS</RootNamespace>
+    <AssemblyName>DA_DBMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chitiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chitiet.Designer.cs">
+      <DependentUpon>Chitiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataConn.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataConn.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.Designer.cs">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChitietsanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChitietsanpham.Designer.cs">
+      <DependentUpon>frmChitietsanpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKy.Designer.cs">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNguoiDung.Designer.cs">
+      <DependentUpon>FrmNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManagerSanPham.Designer.cs">
+      <DependentUpon>ManagerSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_DonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager_DonHang.Designer.cs">
+      <DependentUpon>Manager_DonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_NCC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager_NCC.Designer.cs">
+      <DependentUpon>Manager_NCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_NXB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager_NXB.Designer.cs">
+      <DependentUpon>Manager_NXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_TacGia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager_TacGia.Designer.cs">
+      <DependentUpon>Manager_TacGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuaChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuaChiTiet.Designer.cs">
+      <DependentUpon>SuaChiTiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemSach.Designer.cs">
+      <DependentUpon>ThemSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Cart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Cart.Designer.cs">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DonHang.Designer.cs">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ManagerKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ManagerKhachHang.Designer.cs">
+      <DependentUpon>ManagerKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MyDonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\MyDonHang.Designer.cs">
+      <DependentUpon>MyDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Store.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Store.Designer.cs">
+      <DependentUpon>Store.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Chitiet.resx">
+      <DependentUpon>Chitiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChitietsanpham.resx">
+      <DependentUpon>frmChitietsanpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangKy.resx">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNguoiDung.resx">
+      <DependentUpon>FrmNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerSanPham.resx">
+      <DependentUpon>ManagerSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_DonHang.resx">
+      <DependentUpon>Manager_DonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_NCC.resx">
+      <DependentUpon>Manager_NCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_NXB.resx">
+      <DependentUpon>Manager_NXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_TacGia.resx">
+      <DependentUpon>Manager_TacGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SuaChiTiet.resx">
+      <DependentUpon>SuaChiTiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemSach.resx">
+      <DependentUpon>ThemSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Cart.resx">
+      <DependentUpon>Cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DonHang.resx">
+      <DependentUpon>DonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ManagerKhachHang.resx">
+      <DependentUpon>ManagerKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\MyDonHang.resx">
+      <DependentUpon>MyDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataConn.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataConn.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataConn.dbml.layout">
+      <DependentUpon>DataConn.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stylowi_pl_podroze-i-miejsca_google-_20285447.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_sign_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_abc_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_best_seller_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_search_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-fluid-gradient-ad-image_42102.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-color-h5-ad-background-image_37670.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_spinner_frame_2_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_connection_sync_64px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-simple-book-city-advertising-background-backgroundfreshnaturaldoctor-hatbookblue-skyflying-image_73973.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_coins_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80479391-stack-of-colorful-books-education-background-back-to-school-book-hardback-colorful-books-on-wooden-t.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sach-anh-dep-7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tổng-hợp-các-hình-ảnh-background-đẹp-nhất-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_add_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_file_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_checkmark_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_update_tag_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_save_64px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_books_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-slide-thuyet-trinh-dep-30-1024x640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_sign_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_shopping_cart_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_upload_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_statistics_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_warehouse_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8822_98f06d7de8b795b0644a01f096a243bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anh4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coollogo_com-0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mau-background-don-gian-03-768x614.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mau-background-don-gian-27-768x511.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minh-hoa-hinh-nen-khung-duong-vien-trong-css1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpapertip_girl-reading-book-wallpapers_2484281.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpapertip_writing-wallpaper_133107.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpapertip_reading-books-wallpaper_425448.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pngtreeopen book background_580860 %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-inventory-icon-15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vector_Smart_Object1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update-icon-298x300.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reject.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
